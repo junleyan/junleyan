@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junleyan
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning Python, particularly web scraping
+- 🌱 I’m currently learning Python
 - 📫 Reach me at yanjunlereal@gmail.com
 
 <!---
