@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junleyan
-- 👀 I’m interested in learning more about web design and AI
+- 👀 I’m interested in learning more about web design
 - 📫 Reach me at yanjunlereal@gmail.com
 
 <!---
