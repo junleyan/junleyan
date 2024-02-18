@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @junleyan
-- 👀 I’m interested in learning more about web design
-- 📫 Reach me at yanjunlereal@gmail.com
+- 📫 Reach me at junleyan.hi@gmail.com
 
 <!---
 junleyan/junleyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
